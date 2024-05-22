@@ -5,7 +5,7 @@
  |                Nathaniel Mette
  |                Daniel
  |
- |       Course:  CS460 (Database Design), Spring 2024
+ |       Course:  [Redacted] Spring 2024
  |   Instructor:  L. McCann
  |          TAs:  Ahmad Musa, Jake Bode, Priyansh Nayak
  |     Due Date:  4/29, at the beginning of class
