@@ -4,11 +4,9 @@
  *          Jeziel Banos Gonzalez
  *          Daniel
  * 
- * Course: CSC 460
+ * Course: [Redacted]
  * Instructor: Dr. Lester McCann
- * TAs:	Ahmad Musa
- * 		Samantha Cox
- *      Priyansh Nayak
+ * TAs:	Ahmad Musa, Samantha Cox, Priyansh Nayak
  * Due Date: April 29, 2024
  * 
  * Purpose: This program takes in the user's Oracle username and password and creates the
